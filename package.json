@@ -2,7 +2,7 @@
   "name": "word-book",
   "version": "1.0.0",
   "description": "remember words",
-  "author": "Voy",
+  "author": "YancyQi2002",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
