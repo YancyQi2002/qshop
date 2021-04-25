@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "-": "0.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "iview": "^3.5.4",
     "mini-ui": "0.0.1-alpha",
     "mint-ui": "^2.2.13",
